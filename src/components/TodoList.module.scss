@@ -1,0 +1,17 @@
+.todoList{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.listItem{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.listItem p{
+    margin: 0;
+    display: inline-block;
+    margin-left: .5rem;
+}
